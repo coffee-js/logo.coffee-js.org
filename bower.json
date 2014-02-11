@@ -1,0 +1,18 @@
+{
+  "name": "logo.coffee-js.org",
+  "version": "0.0.0",
+  "authors": [
+    "jiyinyiyong <jiyinyiyong@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "Snap.svg": "~0.2.0"
+  }
+}
